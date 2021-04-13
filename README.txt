@@ -12,7 +12,7 @@ Section: C
 
 Assignment #4 for ITI 1121 Winter 2021. 
 
-Contains: DecisionTree.java, EntropyEvaluator.java, GainInfoItem.java, InformationGainCalculator.java,  
-DataSet.java, Util.java, StudentInfo.java, ActualDataSet.java, 
-AttributeType.java, DataReader.java, CSVReader.java, Attribute.java, 
-VirtualDataSet.java, and this (README.txt).
+Contains: DecisionTree.java, EntropyEvaluator.java, GainInfoItem.java, 
+InformationGainCalculator.java, DataSet.java, Util.java, 
+StudentInfo.java, ActualDataSet.java, AttributeType.java, DataReader.java, 
+CSVReader.java, Attribute.java, VirtualDataSet.java, and this (README.txt).
